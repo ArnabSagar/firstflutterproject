@@ -1,2 +1,2 @@
-# firstflutterproject
-Practice application using the Flutter framework.
+# flutter_practticeapp
+A practice application using the Flutter framework.
